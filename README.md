@@ -86,6 +86,3 @@ Use first upper-case letters for both class and file names.
 ```javascript
 // TODO: Task description
 ```
-## Git guidelines
-
-http://chris.beams.io/posts/git-commit/
